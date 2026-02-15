@@ -59,7 +59,7 @@ I enjoy understanding **how things work under the hood**, not just making them w
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=camiloposadaanturi&show_icons=true&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=camiloPosadaAnturi&show_icons=true&theme=dark" />
 </p>
 
 ---
